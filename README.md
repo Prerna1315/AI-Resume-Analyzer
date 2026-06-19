@@ -64,7 +64,8 @@ I built this project while learning AI and Python projects. Through this project
 - Using Google Gemini API
 - Environment variables with `.env`
 - Building an end-to-end AI application
-
+  
+I built this project while learning AI and Python projects.
 I am continuously learning and improving my skills in Python and AI.
 
 ---
