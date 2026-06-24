@@ -1,6 +1,5 @@
 ## 📷 Project Screenshots
 <img width="1262" height="698" alt="Screenshot 2026-06-19 144907" src="https://github.com/user-attachments/assets/71ca2d2b-2ca2-4b5d-b2a0-c12e89f52127" />
-<img width="1151" height="957" alt="image" src="https://github.com/user-attachments/assets/79155f9d-4d89-4c8f-9881-7a178dfa5b84" />
 <img width="1035" height="983" alt="image" src="https://github.com/user-attachments/assets/a03d707b-be6a-494d-b616-d1595102298e" />
 
 # AI Resume Analyzer
