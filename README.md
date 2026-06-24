@@ -1,3 +1,8 @@
+## 📷 Project Screenshots
+<img width="1262" height="698" alt="Screenshot 2026-06-19 144907" src="https://github.com/user-attachments/assets/71ca2d2b-2ca2-4b5d-b2a0-c12e89f52127" />
+<img width="1151" height="957" alt="image" src="https://github.com/user-attachments/assets/79155f9d-4d89-4c8f-9881-7a178dfa5b84" />
+<img width="983" height="923" alt="image" src="https://github.com/user-attachments/assets/0aabe098-8e20-44f7-8b96-74f25e3922e1" />
+
 # AI Resume Analyzer
 
 This is my AI Resume Analyzer project built using Python, Streamlit and Google Gemini API.
